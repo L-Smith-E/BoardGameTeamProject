@@ -9,3 +9,5 @@ Rami Nassar (Team Lead and Game Manager).
 Lyrence Ladines (UI Menu and Debugger).
 
 Heaseo Chung (Player control).
+
+Laurence Smith (Map/Randomization).
